@@ -9,3 +9,5 @@ Instructions:
 3) Click on the correct survey page > Click F1 > wait till it done > Click Submit (Reason of not automating submit is in case users wish to change something eg comments)
 4) Each time the script finished, it will reload,  Click F1 for different surveys OR Click F2 to exit.
 
+Script designed by Kavier for individual purposes with no copyright infringement intended
+

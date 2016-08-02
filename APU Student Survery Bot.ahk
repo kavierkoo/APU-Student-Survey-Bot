@@ -1,4 +1,4 @@
-﻿;Script designed by Kavier Koo
+﻿;Script designed by Kavier for individual purposes with no copyright infringement intended
 MsgBox, 
 (
 Welcome to Student Survey Auto Bot!
