@@ -1,3 +1,8 @@
+---- Deprecated ----
+This repository is no longer updating as I've already graduated and no longer have access to APU Student Survery System
+
+--------------------
+
 APU Student Survey Bot is scripted by AutoHotKey.
 
 This script is a simple script that allows Asia Pasific Students to fill their Student Survey by pressing F1.
